@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there 👋, I'm Weesdome!  
 
-<!--
-**Weesdome/Weesdome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer** | 🎨 **UI/UX Designer** | ☁ **Full-Stack Enthusiast**  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🔭 Currently working on **Clyma (Weather App) & Lily Shop (AI-powered eCommerce)**  
+- 🌱 Exploring **advanced frontend frameworks & backend scalability**  
+- 👯 Open to collaborating on **web apps and UI/UX projects**  
+- 💬 Ask me about **React, Vue, Node.js, Firebase, and UI/UX design**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+#### **Frontend**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)  
+
+#### **Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)  
+
+### 📊 GitHub Stats  
+![Weesdome's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Weesdome&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weesdome&layout=compact&theme=tokyonight)  
+
+### 📫 Connect with Me  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Weesdome)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Weesdome)  
+
+---
+
+⭐ **Star my repos if you like my work!** 🚀  

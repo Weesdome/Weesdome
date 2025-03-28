@@ -29,7 +29,6 @@
 ### 📫 Connect with Me  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Weesdome)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Weesdome)  
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on **Clyma (Weather App) & Lily Shop (AI-powered eCommerce)**  
-- 🌱 Exploring **advanced frontend frameworks & backend scalability**  
+- 🌱 Exploring advanced frontend frameworks & backend scalability  
 - 👯 Open to collaborating on **web apps and UI/UX projects**  
 - 💬 Ask me about **React, Vue, Node.js, Firebase, and UI/UX design**  
 

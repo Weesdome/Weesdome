@@ -27,8 +27,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weesdome&layout=compact&theme=tokyonight)  
 
 ### 📫 Connect with Me  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://your-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/Weesdome)  
+[![Portfolio]()  
+[![LinkedIn](www.linkedin.com/in/wisdom-emmanuel-ndudi-ba2773268)  
 
 ---
 

@@ -28,7 +28,7 @@
 
 ### 📫 Connect with Me  
 [![Portfolio]()  
-[![LinkedIn](www.linkedin.com/in/wisdom-emmanuel-ndudi-ba2773268)  
+[![LinkedIn](https://linkedin.com/in/wisdom-emmanuel-ndudi-ba2773268)  
 
 ---
 
